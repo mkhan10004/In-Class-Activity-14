@@ -1,0 +1,10 @@
+{
+  "notification": {
+    "title": "Campus event update",
+    "body": "The student activities fair starts at 4 PM."
+  },
+  "data": {
+    "action": "update_ui",
+    "asset": "promo"
+  }
+}

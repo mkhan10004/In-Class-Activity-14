@@ -1,0 +1,10 @@
+{
+  "notification": {
+    "title": "Unsupported asset test",
+    "body": "The previous campus announcement should stay visible."
+  },
+  "data": {
+    "action": "update_ui",
+    "asset": "unknown"
+  }
+}
